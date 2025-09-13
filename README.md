@@ -3,13 +3,13 @@
 <img align ="right" alt ="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitbr17&label=Profile%20views&color=0e75b6&style=flat" alt="anitbr17" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **SkillSprint**
 
 - 🌱 I’m currently learning **React.js, Next.js, Node.js, MongoDB, Express.js**
 
 - 👯 I’m looking to collaborate on **Amazon Clone**
 
-- 🤝 I’m looking for help with **Ankit, Shivam**
+- 🤝 I’m looking for help with **Ankit**
 
 - 📫 How to reach me **Anitbaranwal2018@gmail.com**
 
